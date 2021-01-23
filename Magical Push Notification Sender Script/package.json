@@ -1,0 +1,17 @@
+{
+  "name": "push-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "push": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "prompts": "^2.2.1",
+    "web-push": "^3.3.5"
+  }
+}
